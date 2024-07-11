@@ -2,7 +2,8 @@ DOMAIN-SUFFIX,skrbtzx.top #搜索
 DOMAIN-SUFFIX,skrbtpx.top
 DOMAIN-SUFFIX,skrbthu.top
 DOMAIN-SUFFIX,818096.xyz 
-DOMAIN-SUFFIX,mijia.tech  
-DOMAIN-SUFFIX,mijia.com
+DOMAIN-KEYWORD,mijia
+#DOMAIN-SUFFIX,mijia.tech  
+#DOMAIN-SUFFIX,mijia.com
 DOMAIN-SUFFIX,jooancloud.com  #乔安
 #DOMAIN-SUFFIX,ppio.cloud  #小米商店
