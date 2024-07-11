@@ -1,7 +1,15 @@
+#搜索
 DOMAIN-KEYWORD,skrbt
+
 DOMAIN-SUFFIX,818096.xyz 
+
+#米家设备
 DOMAIN-KEYWORD,mijia
 #DOMAIN-SUFFIX,mijia.tech  
 #DOMAIN-SUFFIX,mijia.com
-DOMAIN-SUFFIX,jooancloud.com
+
+#乔安设备
+#DOMAIN-SUFFIX,jooancloud.com
+
+#小米商店下载
 #DOMAIN-SUFFIX,ppio.cloud
