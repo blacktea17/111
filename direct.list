@@ -13,3 +13,6 @@ DOMAIN-KEYWORD,mijia
 
 #小米商店下载
 #DOMAIN-SUFFIX,ppio.cloud
+
+#传文件
+DOMAIN-KEYWORD,snapdrop
