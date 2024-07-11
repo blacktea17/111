@@ -1,10 +1,10 @@
 #搜索
 DOMAIN-KEYWORD,skrbt
 
-DOMAIN-SUFFIX,818096.xyz 
+#DOMAIN-SUFFIX,818096.xyz 
 
 #米家设备
-DOMAIN-KEYWORD,mijia
+#DOMAIN-KEYWORD,mijia
 #DOMAIN-SUFFIX,mijia.tech  
 #DOMAIN-SUFFIX,mijia.com
 
