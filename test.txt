@@ -1,3 +1,2 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1 综合「IPV6」
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+•央视「IPV6」,#genre#
+CCTV1 综合「IPV6」,https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
