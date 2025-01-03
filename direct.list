@@ -1,4 +1,4 @@
-DOMAIN,818096.xyz 
+DOMAIN-SUFFIX,818096.xyz 
 #搜索
 DOMAIN-KEYWORD,skrbt
 #传文件
@@ -12,4 +12,4 @@ DOMAIN-SUFFIX,jooancloud.com
 #小米商店下载
 DOMAIN-SUFFIX,ppio.cloud
 #op定制
-DOMAIN,openwrt.ai
+DOMAIN-SUFFIX,openwrt.ai
