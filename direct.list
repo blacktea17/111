@@ -1,9 +1,8 @@
+DOMAIN,818096.xyz 
 #搜索
 DOMAIN-KEYWORD,skrbt
 #传文件
 DOMAIN-KEYWORD,snapdrop
-
-DOMAIN-SUFFIX,818096.xyz 
 #米家设备
 #DOMAIN-KEYWORD,mijia
 DOMAIN-SUFFIX,mijia.tech  
@@ -13,4 +12,4 @@ DOMAIN-SUFFIX,jooancloud.com
 #小米商店下载
 DOMAIN-SUFFIX,ppio.cloud
 #op定制
-DOMAIN-SUFFIX,openwrt.ai
+DOMAIN,openwrt.ai
