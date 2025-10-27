@@ -8,6 +8,6 @@ DOMAIN-SUFFIX,cloudcell.com
 #远程
 DOMAIN-KEYWORD,todesk
 #cf重定向
-DOMAIN-SUFFIX,icoa.cn  #dns大全
-DOMAIN-SUFFIX,appstorrent.ru   #mac软件
-DOMAIN-SUFFIX,xclient.info   #mac软件
+DOMAIN-SUFFIX,icoa.cn
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,xclient.info
