@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,wallhaven.cc
 IP-CIDR,222.85.195.7/32,no-resolve
 DOMAIN-KEYWORD,debian
+DOMAIN-SUFFIX,javfree.me
